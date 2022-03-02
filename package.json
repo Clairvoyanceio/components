@@ -109,7 +109,7 @@
     "@types/run-sequence": "^0.0.30",
     "@types/semver": "^7.3.4",
     "@types/send": "^0.14.5",
-    "@types/stylelint": "^9.10.1",
+    "@types/stylelint": "^14.0.0",
     "@types/yaml": "^1.9.7",
     "autoprefixer": "^6.7.6",
     "axe-webdriverjs": "^1.1.1",
